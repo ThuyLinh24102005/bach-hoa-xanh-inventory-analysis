@@ -18,14 +18,18 @@ Các nghiệp vụ chính:
 ---
 
 ## Use Case Overview
+Use Case Diagram mô tả các chức năng chính của hệ thống quản lý kho dưới góc nhìn người dùng (nhân viên kho, quản lý). 
+Sơ đồ thể hiện các nghiệp vụ như nhập kho, xuất kho, kiểm kê, quản lý sản phẩm và báo cáo, đồng thời xác định quyền truy cập của từng nhóm người dùng trong hệ thống.
 <img width="1087" height="747" alt="Usecase_Hethongquanlykho" src="https://github.com/user-attachments/assets/4d8e7585-c143-404b-8fc9-3087db8b96d7" />
 [UseCase](https://github.com/ThuyLinh24102005/bach-hoa-xanh-inventory-analysis/tree/main/diagrams/UseCase)
 
-## 🗄 ERD
+## ERD
+ERD mô tả cấu trúc dữ liệu của hệ thống quản lý kho, các mối quan hệ giữa các bảng được thiết kế nhằm đảm bảo tính toàn vẹn dữ liệu và hỗ trợ tối ưu cho việc truy vấn và báo cáo tồn kho.
 <img width="1503" height="688" alt="ERD_Hethongquanlykho" src="https://github.com/user-attachments/assets/a7f4f54e-8b48-466a-8f93-4e5594e9a1f0" />
 [ERD](https://github.com/ThuyLinh24102005/bach-hoa-xanh-inventory-analysis/tree/main/diagrams/ERD)
 
 ## DFD Overview
+DFD mô tả luồng dữ liệu trong hệ thống quản lý kho
 <img width="915" height="311" alt="DFD_muc0" src="https://github.com/user-attachments/assets/c10c1d00-2530-4135-9f5a-532a068eece0" />
 [DFD](https://github.com/ThuyLinh24102005/bach-hoa-xanh-inventory-analysis/tree/main/diagrams/DFD)
 
