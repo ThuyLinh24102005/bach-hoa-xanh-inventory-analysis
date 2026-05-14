@@ -19,20 +19,20 @@ Các nghiệp vụ chính:
 
 ## Use Case Overview
 <img width="1087" height="747" alt="Usecase_Hethongquanlykho" src="https://github.com/user-attachments/assets/4d8e7585-c143-404b-8fc9-3087db8b96d7" />
-[UseCase Diagrams]
+[[UseCase Diagrams]([url](https://github.com/ThuyLinh24102005/bach-hoa-xanh-inventory-analysis/tree/0849ed56a08199519c961510d61024e42e4cec25/diagrams/UseCase))]
 
 ## 🗄 ERD
 <img width="1503" height="688" alt="ERD_Hethongquanlykho" src="https://github.com/user-attachments/assets/a7f4f54e-8b48-466a-8f93-4e5594e9a1f0" />
-[ERD Diagrams]
+[[ERD Diagrams]([url](https://github.com/ThuyLinh24102005/bach-hoa-xanh-inventory-analysis/tree/0849ed56a08199519c961510d61024e42e4cec25/diagrams/ERD))]
 
 ## DFD Overview
 <img width="915" height="311" alt="DFD_muc0" src="https://github.com/user-attachments/assets/c10c1d00-2530-4135-9f5a-532a068eece0" />
-[DFD Diagrams]
+[[DFD Diagrams]([url](https://github.com/ThuyLinh24102005/bach-hoa-xanh-inventory-analysis/tree/0849ed56a08199519c961510d61024e42e4cec25/diagrams/DFD))]
 
 ## BPMN
 BPMN mô tả quy trình nhập kho, xuất kho và kiểm kê hàng hóa.
 <img width="1938" height="1121" alt="BPMN-Nhanvienkho" src="https://github.com/user-attachments/assets/1245c725-1446-4b2c-9c5f-a83dc5548d2a" />
-[BPMN Diagrams]
+[[BPMN Diagrams]([url](https://github.com/ThuyLinh24102005/bach-hoa-xanh-inventory-analysis/tree/0849ed56a08199519c961510d61024e42e4cec25/diagrams/BPMN))]
 
 # Nội dung thực hiện
 - Xây dựng BPMN, DFD, Use Case, ERD
