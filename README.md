@@ -1,8 +1,11 @@
 # bach-hoa-xanh-inventory-analysis
 Warehouse Management System Analysis (Business Analyst Project)
+
 ## 👤 Vai trò
 - Business Analyst
+
 ---
+
 # Tổng quan dự án
 Dự án tập trung phân tích và tối ưu hệ thống quản lý kho cho cửa hàng Bách Hóa Xanh.
 Các nghiệp vụ chính:
@@ -11,20 +14,26 @@ Các nghiệp vụ chính:
 - Kiểm kê tồn kho
 - Phân quyền người dùng
 - Báo cáo tồn kho
+
 ---
+
 ## Use Case Overview
 <img width="1087" height="747" alt="Usecase_Hethongquanlykho" src="https://github.com/user-attachments/assets/4d8e7585-c143-404b-8fc9-3087db8b96d7" />
-[Use Case Diagrams](diagrams/UseCase/)
+[Use Case Diagrams](diagrams/UseCase)
+
 ## 🗄 ERD
 <img width="1503" height="688" alt="ERD_Hethongquanlykho" src="https://github.com/user-attachments/assets/a7f4f54e-8b48-466a-8f93-4e5594e9a1f0" />
-[ERD](diagrams/ERD/)
+[ERD](diagrams/ERD)
+
 ## DFD Overview
 <img width="915" height="311" alt="DFD_muc0" src="https://github.com/user-attachments/assets/c10c1d00-2530-4135-9f5a-532a068eece0" />
-[DFD Diagrams](diagrams/DFD/)
+[DFD Diagrams](diagrams/DFD)
+
 ## BPMN
 BPMN mô tả quy trình nhập kho, xuất kho và kiểm kê hàng hóa.
 <img width="1938" height="1121" alt="BPMN-Nhanvienkho" src="https://github.com/user-attachments/assets/1245c725-1446-4b2c-9c5f-a83dc5548d2a" />
-[BPMN Diagrams](diagrams/BPMN/)
+[BPMN Diagrams](diagrams/BPMN)
+
 # Nội dung thực hiện
 - Xây dựng BPMN, DFD, Use Case, ERD
 - Tối ưu quy trình quản lý kho
