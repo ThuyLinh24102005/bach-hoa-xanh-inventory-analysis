@@ -27,12 +27,12 @@ Các nghiệp vụ chính:
 
 ## DFD Overview
 <img width="915" height="311" alt="DFD_muc0" src="https://github.com/user-attachments/assets/c10c1d00-2530-4135-9f5a-532a068eece0" />
-[DFD diagrams]
+DFD diagrams
 
 ## BPMN
 BPMN mô tả quy trình nhập kho, xuất kho và kiểm kê hàng hóa.
 <img width="1938" height="1121" alt="BPMN-Nhanvienkho" src="https://github.com/user-attachments/assets/1245c725-1446-4b2c-9c5f-a83dc5548d2a" />
-[BPMN diagrams]
+BPMN diagrams
 
 # Nội dung thực hiện
 - Xây dựng BPMN, DFD, Use Case, ERD
